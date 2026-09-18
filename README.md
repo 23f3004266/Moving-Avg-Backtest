@@ -7,14 +7,6 @@ the short SMA is above the long SMA; otherwise exit the market.
 
 Quick start
 
-- Create a virtual environment and install dependencies (if present):
-
-```powershell
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-```
-
 - Open the notebook: `notebook/moving_average_backtest.ipynb` to run the analysis.
 
 Repository layout
