@@ -25,9 +25,3 @@ Outputs
 - Summary CSV: `result/strategy_summary.csv`
 - Charts: `images/moving_average_signals.png`, `images/strategy_vs_buy_hold.png`, `images/strategy_drawdown.png`
 
-Notes
-
-- This repo demonstrates basic backtesting and performance metrics (Sharpe, drawdown).
-- For reproducible results, use the notebook and ensure `requirements.txt` is installed.
-
-Questions or changes? Open an issue or edit the notebook.
